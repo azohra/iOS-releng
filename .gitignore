@@ -1,0 +1,9 @@
+# Mac OS X
+.DS_Store
+__MACOSX
+
+# Jetbrains
+.idea
+
+# Various settings
+xcuserdata
